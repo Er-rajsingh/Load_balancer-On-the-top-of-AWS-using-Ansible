@@ -1,0 +1,7 @@
+[haproxy]
+Public_IP of ec2-instance1
+
+
+[webservers]
+Public_IP of ec2-instance2
+
